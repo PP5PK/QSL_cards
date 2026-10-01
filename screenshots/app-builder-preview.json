@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "QSL PP5PK",
+      "hasCanvas": false,
+      "bodyTextLen": 676,
+      "bodyTextHash": "264f4421a345992dd0fa42ed01c9c543cceeae8acbbbd68d4cf3e07faf87eba0",
+      "bodyTextPrefix": "QSL CARD · FRONT ONLY · 140 × 90 MM PP5PK · Mafra, Santa Catarin",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "QSL PP5PK",
+      "hasCanvas": false,
+      "bodyTextLen": 676,
+      "bodyTextHash": "264f4421a345992dd0fa42ed01c9c543cceeae8acbbbd68d4cf3e07faf87eba0",
+      "bodyTextPrefix": "QSL CARD · FRONT ONLY · 140 × 90 MM PP5PK · Mafra, Santa Catarin",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
